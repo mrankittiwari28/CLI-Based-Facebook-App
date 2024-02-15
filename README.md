@@ -11,7 +11,6 @@ Here are the Highlight of This Project
 
 Layout
 
-
-
+![Screenshot 2024-02-15 235812](https://github.com/mrankittiwari28/CLI-Based-Facebook-App/assets/123309987/edaab99e-d9d7-4e33-94c7-1ab12f95d569)
 
 
